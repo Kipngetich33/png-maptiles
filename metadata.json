@@ -1,0 +1,11 @@
+{
+    "attribution": "", 
+    "description": "kewasco(maptyles)", 
+    "center": "35.2688,-0.3535,12", 
+    "bounds": "35.1425,-0.4539,35.3938,-0.2609", 
+    "minzoom": "12", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "18", 
+    "name": "kewasco"
+}
